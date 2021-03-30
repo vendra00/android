@@ -1,4 +1,4 @@
-package com.alura.agenda;
+package com.alura.agenda.ui.activity;
 
 import android.os.Bundle;
 import android.widget.ArrayAdapter;
@@ -6,6 +6,8 @@ import android.widget.ListView;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.alura.agenda.R;
 
 import java.util.ArrayList;
 import java.util.Arrays;
